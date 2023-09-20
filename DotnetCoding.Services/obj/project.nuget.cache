@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYu2u2tYHJWo9O6t5JAJgpLKGJhCUBoKCzqHGNQC2yGzgEl0ZYtIwveEtHd161vMu0OwjYEtK2pO2UbMSHLG8w==",
+  "success": true,
+  "projectFilePath": "/Users/bobbyjakka/Projects/RetailApi/RetailApiDemo/DotnetCoding.Services/DotnetCoding.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/bobbyjakka/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
